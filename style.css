@@ -11,7 +11,7 @@ header{
   margin: 0 auto;
 }
 
-header.heading{
+.heading{
   font-size: 32px;
 }
 
@@ -52,22 +52,27 @@ header.heading{
   margin-top: 30px;
   color: white;
 }
-.main{
-  width: 840px;
+
+main{
+  width: 800px;
   display: flex;
   justify-content: center;
   margin: 0 auto;
+  padding: 70px 0;
 }
 
 .blog{
-  width: 600px;
-  height: 1400px;
- 
+  width:540px;
+  height:30px;
+}
+
+.blog-heading{
+
 }
 
 .sidebar{
-  width: 240px;
-  height: 1400px;
+  width:;
+  height:;
   
 }
 
