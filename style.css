@@ -4,11 +4,26 @@
   box-sizing: border-box;
 }
 
+a{
+  text-decoration: none;
+}
+
+header,nav,h2,.main-visual,footer{
+  font-family: Chalkduster,"Bradly Hand",Courier,"Segoe Print",sans-serif;
+}
+
 header{
   width: 90%;
   height: 15px 0;
   text-align: center;
   margin: 0 auto;
+  position: relative;
+}
+
+.social{
+  position: absolute;
+  top: 22px;
+  right: 22px;
 }
 
 .heading{
